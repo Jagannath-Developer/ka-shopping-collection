@@ -1,6 +1,6 @@
 import React from "react";
 import { NavLink } from "react-router-dom";
-import lottieURL from "../assets/shopping_lottify.json";
+import lottieURL from "../assets/online-shopping_02.json";
 import DisplayLottie from "./DisplayLottie";
 
 export default function Register() {
@@ -13,7 +13,7 @@ export default function Register() {
           </div>
           <div className="col-md-6 p-4 order-lg-2 order-1 ">
             <form>
-              <h2 className="text-center">Login</h2>
+              <h2 className="text-center">Register</h2>
               <div className="input-group mt-3">
                 <span className="bi bi-envelope input-group-text"></span>
                 <input
